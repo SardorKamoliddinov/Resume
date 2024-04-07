@@ -31,12 +31,12 @@ Responsibilities:
 •	Engaged in continuous learning to stay abreast of the latest frontend development trends and technologies, applying this knowledge to innovate and improve project outcomes.
 
 # Education
-Full Stack Developer, Astrum IT Academy, June 2023
-Bachelor of Science in IT, University of Amity, September 2023
+### Full Stack Developer, Astrum IT Academy, June 2023
+### Bachelor of Science in IT, University of Amity, September 2023
 
 # Achievement
-•	Qwasar Silicon Valley certificate
-•	IELTS – B2
+### Qwasar Silicon Valley certificate
+### IELTS – B2
 
 
 

@@ -7,7 +7,7 @@ Phone: (90) 962-15-80
 [Linkedin](https://www.linkedin.com/in/sardor-kamoliddinov-6a0383250/)	|	[Github](https://github.com/SardorKamoliddinov)		|	[Telegram](https://t.me/sardorkamoliddinov99)
 
 # Summary
-As a dedicated Frontend Developer with one year of hands-on experience, I have honed a profound skill set in JavaScript, including extensive expertise in ReactJS libraries and technologies. My professional journey is marked by my involvement in a real-world project, where I played a pivotal role in developing and enhancing dashboard and user interfaces. This experience has not only refined my technical abilities but also my understanding of practical application requirements and user-centric design principles. I am adept at translating complex project requirements into responsive, efficient, and aesthetically pleasing web applications. With a commitment to continuous learning and improvement, I am seeking opportunities to bring my unique blend of skills and experience to a dynamic team, where I can contribute to the creation of innovative and impactful web solutions.
+With a year's experience as a Frontend Developer, I specialize in JavaScript, particularly ReactJS. I've honed my skills through real projects, focusing on crafting intuitive user interfaces. I excel in translating complex requirements into sleek, user-friendly web apps that prioritize both functionality and design. Eager to join a dynamic team where I can apply my expertise to create innovative web solutions.
 
 # Technical Skills
  ### Technologies: HTML5, CSS, JavaScript, TypeScript
